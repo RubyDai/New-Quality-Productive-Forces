@@ -1,3 +1,4 @@
+%% Reference: Cao, Y., & Dai, S. (2025). Understanding and evaluating new quality productive forces in China: based on machine learning. Applied Economics Letters, 1-7.
 %% Clear environment variables
 warning off             % Close alarm message
 close all               % Close open figures
